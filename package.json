@@ -1,0 +1,19 @@
+{
+  "name": "rocketblog-react",
+  "version": "1.0.0",
+  "description": "rocketseat challenge built with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorLorencato/rocketblog-react.git"
+  },
+  "author": "Victor Lorençato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorLorencato/rocketblog-react/issues"
+  },
+  "homepage": "https://github.com/VictorLorencato/rocketblog-react#readme"
+}
